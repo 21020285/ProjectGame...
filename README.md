@@ -5,7 +5,7 @@ Thuộc lớp : 2122II_INT2215_1
 Code dự án:
 1) - Cài đặt chương trình: Nếu dùng IDE CodeBlock: Cài đặt hết do có cả file .cbp, .depend,.layout
 - Các IDE khác : Bỏ qua file .cbp, .depend,.layout, obj/Debug
-- Tóm tắt : file Debug : Các thư viện của SDL2_mixer & SDL2_image
+- Tóm tắt : file Debug : Các thư viện của SDL2_mixer & SDL2_image : đồ họa & âm thanh
             file music : sound effect của game
             file photo : ảnh nền, đồ họa của game
 2) - Wolf game - Game ma sói : Trò chơi này dành cho 16 người chơi chia thành 2 phe là phe sói và phe dân làng với nhiều dân hơn sói nhưng chỉ có sói biết nhau ai là đồng đội. Game chìa thành 2 phần là đêm và ngày với thứ tự đan xen lẫn nhau cho đến khi không còn sói hoặc số dân = số sói thì trò chơi kết thúc. vào đêm sói chọn 1 người chơi phe dân để loại ra cuộc chơi. Còn ban ngày thì tất cả mọi người thảo luận và thống nhất chọn 1 người để bị treo cổ. Sói thắng khi cố gắng loại được dân sao cho số dân còn lại = số sói còn lại. Còn dân thắng khi loại được hết sói = bỏ phiếu ban ngày và loại được hết sói
@@ -19,6 +19,7 @@ Hướng phát triển : - chèn thêm nhạc chính do bị 1 lỗi chưa chèn
 - thêm 1 số chức năng có khả năng đặc biệt hơn cho trò chơi
 - có thể bấm vào ô thay vì nhấn nút cho tiện lợi hơn
 - ghép được thông báo phe mỗi người chơi ở 2 cửa sổ khác nhau thành chung 1 cửa số
+- rút gọn và phân chia được code gọn gàng hơn ( nếu có thể ) để tiện nâng cấp game
 ...
 Điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 - học được những gì mà trước đây chưa biết đến
