@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1652351375 source:c:\users\administrator\desktop\hopleless\function.cpp
+	"Function.h"
+	<SDL.h>
+	<bits/stdc++.h>
+
+1652863850 c:\users\administrator\desktop\hopleless\function.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"ChooseWolf.h"
+
+1652864244 source:c:\users\administrator\desktop\hopleless\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+	"ChooseWolf.h"
+
+1652861733 source:c:\users\administrator\desktop\hopleless\choosewolf.cpp
+	<bits/stdc++.h>
+	"ChooseWolf.h"
+	"Function.h"
+
+1652864244 c:\users\administrator\desktop\hopleless\choosewolf.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+
+1652861733 source:c:\users\administrator\desktop\wolfgamedemo\choosewolf.cpp
+	<bits/stdc++.h>
+	"ChooseWolf.h"
+	"Function.h"
+
+1652864244 c:\users\administrator\desktop\wolfgamedemo\choosewolf.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+
+1652863850 c:\users\administrator\desktop\wolfgamedemo\function.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"ChooseWolf.h"
+
+1652351375 source:c:\users\administrator\desktop\wolfgamedemo\function.cpp
+	"Function.h"
+	<SDL.h>
+	<bits/stdc++.h>
+
+1652864244 source:c:\users\administrator\desktop\wolfgamedemo\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+	"ChooseWolf.h"
+
+1653381046 source:c:\users\administrator\desktop\wolfgamedemottytest\function.cpp
+	"Function.h"
+	<SDL.h>
+	<bits/stdc++.h>
+
+1653455860 c:\users\administrator\desktop\wolfgamedemottytest\function.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"ChooseWolf.h"
+
+1652864244 c:\users\administrator\desktop\wolfgamedemottytest\choosewolf.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+
+1653456372 source:c:\users\administrator\desktop\wolfgamedemottytest\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Function.h"
+	"ChooseWolf.h"
+	<conio.h>
+	<stdio.h>
+
+1653381046 source:c:\users\administrator\desktop\wolfgamedemottytest\choosewolf.cpp
+	<bits/stdc++.h>
+	"ChooseWolf.h"
+	"Function.h"
+
