@@ -2,7 +2,7 @@ Thông tin tác giả :
 - Họ & tên : Nguyễn Ngọc Cường
 - MSV : 21020285
 - Thuộc lớp : 2122II_INT2215_1
-Code dự án:
+- Code dự án:
 1) - Cài đặt chương trình: Nếu dùng IDE CodeBlock: Cài đặt hết do có cả file .cbp, .depend,.layout
 - Các IDE khác : Bỏ qua file .cbp, .depend,.layout, obj/Debug
 - Tóm tắt : file Debug : Các thư viện của SDL2_mixer & SDL2_image : đồ họa & âm thanh
@@ -25,4 +25,4 @@ Hướng phát triển : - chèn thêm nhạc chính do bị 1 lỗi chưa chèn
 - học được những gì mà trước đây chưa biết đến
 - tính tự học
 - chủ động hỏi, thắc mắc cho vấn đề của mình về code , chèn ảnh , lỗi thường gặp
-- chỉ cần có máy ko bị quá nhiều lỗi lạ với chút kiến thức và rất nhiều sự gợi ý & giúp đỡ của hơn chục người là có thể code được trò chơi. Mặc dù nó không được quá hoàn hảo.
+- chỉ cần có máy ko bị quá nhiều lỗi lạ với chút kiến thức và rất nhiều sự gợi ý & giúp đỡ rất nhiều người là có thể code được trò chơi. Mặc dù nó không được quá hoàn hảo.
