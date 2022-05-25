@@ -1,7 +1,7 @@
 Thông tin tác giả : 
-Họ & tên : Nguyễn Ngọc Cường
-MSV : 21020285
-Thuộc lớp : 2122II_INT2215_1
+- Họ & tên : Nguyễn Ngọc Cường
+- MSV : 21020285
+- Thuộc lớp : 2122II_INT2215_1
 Code dự án:
 1) - Cài đặt chương trình: Nếu dùng IDE CodeBlock: Cài đặt hết do có cả file .cbp, .depend,.layout
 - Các IDE khác : Bỏ qua file .cbp, .depend,.layout, obj/Debug
