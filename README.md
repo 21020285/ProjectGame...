@@ -9,7 +9,8 @@ Thông tin tác giả :
             file music : sound effect của game
             file photo : ảnh nền, đồ họa của game
 2) - Wolf game - Game ma sói : Trò chơi này dành cho 16 người chơi chia thành 2 phe là phe sói và phe dân làng với nhiều dân hơn sói nhưng chỉ có sói biết nhau ai là đồng đội. Game chìa thành 2 phần là đêm và ngày với thứ tự đan xen lẫn nhau cho đến khi không còn sói hoặc số dân = số sói thì trò chơi kết thúc. vào đêm sói chọn 1 người chơi phe dân để loại ra cuộc chơi. Còn ban ngày thì tất cả mọi người thảo luận và thống nhất chọn 1 người để bị treo cổ. Sói thắng khi cố gắng loại được dân sao cho số dân còn lại = số sói còn lại. Còn dân thắng khi loại được hết sói = bỏ phiếu ban ngày và loại được hết sói
-Hướng dẫn cụ thể : https://www.youtube.com/watch?v=dd2sOmZUBmM
+- Hướng dẫn cụ thể : https://www.youtube.com/watch?v=dd2sOmZUBmM
+- Phần 2: https://www.youtube.com/watch?v=xgQbm2v7guY
 3) - Các chức năng đã cài đặt : https://www.youtube.com/watch?v=NXZD12qpNws
 Bổ sung được thêm : cài được sound effect và hiện được vai trò của từng người trong trò chơi 1 cách đơn lẻ trước khi vào game để ko cần thêm 1 người điều hành trò chơi
 4) - Kĩ thuật lật trình đã dùng : mảng, con trỏ , đồ họa , âm thanh , cấu trúc , thuật toán random:
